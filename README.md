@@ -4,4 +4,5 @@ This is my first repo, creating it to play with the interaction between git and 
 * something else
 * added remotly
 * something else remote
-
+* pulled back into nano locally and added
+* hazar its working!
